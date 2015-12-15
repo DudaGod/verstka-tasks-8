@@ -1,3 +1,5 @@
+# <a href="http://dudagod.github.io/verstka-tasks-8/" target="_blank">Демо</a>
+
 # Задача к лекции «Анимации» – «айБабулька»
 
 :sos: [Как создать Pull Request](https://github.com/urfu-2015/guides/blob/master/how-to-pull-request.md)  
